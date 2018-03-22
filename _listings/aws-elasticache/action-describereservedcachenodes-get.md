@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DescribeReservedCacheNodes&k=1:
+  /?Action=DescribeReservedCacheNodes:
     get:
       summary: ' Describe Reserved Cache Nodes '
       description: |-
