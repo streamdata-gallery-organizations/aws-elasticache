@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DescribeCacheClusters&k=1:
+  /?Action=DescribeCacheClusters:
     get:
       summary: ' Describe Cache Clusters '
       description: |-
