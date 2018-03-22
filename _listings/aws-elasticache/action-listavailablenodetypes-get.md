@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ListAvailableNodeTypes&k=1:
+  /?Action=ListAvailableNodeTypes:
     get:
       summary: ' List Available Node Types '
       description: ""
