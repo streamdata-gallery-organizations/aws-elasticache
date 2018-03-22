@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=CreateCacheCluster&k=1:
+  /?Action=CreateCacheCluster:
     get:
       summary: ' Create Cache Cluster '
       description: Creates a cache cluster
