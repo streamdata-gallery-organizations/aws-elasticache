@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DescribeCacheParameters&k=1:
+  /?Action=DescribeCacheParameters:
     get:
       summary: ' Describe Cache Parameters '
       description: |-
