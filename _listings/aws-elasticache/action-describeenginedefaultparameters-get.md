@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DescribeEngineDefaultParameters&k=1:
+  /?Action=DescribeEngineDefaultParameters:
     get:
       summary: ' Describe Engine Default Parameters '
       description: |-
