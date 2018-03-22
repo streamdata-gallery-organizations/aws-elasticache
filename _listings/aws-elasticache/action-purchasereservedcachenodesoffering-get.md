@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=PurchaseReservedCacheNodesOffering&k=1:
+  /?Action=PurchaseReservedCacheNodesOffering:
     get:
       summary: ' Purchase Reserved Cache Nodes Offering '
       description: |-
