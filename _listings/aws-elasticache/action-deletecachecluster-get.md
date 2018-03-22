@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DeleteCacheCluster&k=1:
+  /?Action=DeleteCacheCluster:
     get:
       summary: ' Delete Cache Cluster '
       description: Deletes a previously provisioned cache cluster
