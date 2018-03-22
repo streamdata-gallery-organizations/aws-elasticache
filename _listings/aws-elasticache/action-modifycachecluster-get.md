@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ModifyCacheCluster&k=1:
+  /?Action=ModifyCacheCluster:
     get:
       summary: ' Modify Cache Cluster '
       description: Modifies the settings for a cache cluster
