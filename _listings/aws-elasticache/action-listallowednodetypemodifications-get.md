@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ListAllowedNodeTypeModifications&k=1:
+  /?Action=ListAllowedNodeTypeModifications:
     get:
       summary: ' List Allowed Node Type Modifications '
       description: |-
