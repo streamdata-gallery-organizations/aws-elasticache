@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=RebootCacheCluster&k=1:
+  /?Action=RebootCacheCluster:
     get:
       summary: ' Reboot Cache Cluster '
       description: |-
