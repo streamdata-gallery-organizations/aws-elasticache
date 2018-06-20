@@ -13,10 +13,10 @@ description: Amazon ElastiCache is a web service that makes it easy to deploy, o
   nodes.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonElasticCache.png
 x-kinRank: "10"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: AWS ElastiCache
-created: "2018-05-20"
-modified: "2018-05-20"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-elasticache/master/_listings/aws-elasticache/apis.md
 specificationVersion: "0.14"
 apis:
